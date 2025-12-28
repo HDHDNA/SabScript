@@ -1,6 +1,6 @@
 # SAB Script
 
-A Working Keyless dupe script made for **SAB**.
+A Working Keyless dupe script made for **Steal A Brainrot**.
 
 Use this script before it gets patched.
 
