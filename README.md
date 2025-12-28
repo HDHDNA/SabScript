@@ -6,15 +6,15 @@ Use this script before it gets patched.
 
 ---
 
-## 🚀 Features
-- Easy Dupe for brainrots
+## ⚙️ Features
+- Easy to use
 - Keyless
-
+- Fast dupe for brainrots
 ---
 
 ## 📥 How to Use
 
-Execute this script:
+Execute this script in your executor:
 
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/HDHDNA/Sab/refs/heads/main/lua"))()
